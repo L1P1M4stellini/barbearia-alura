@@ -1,6 +1,6 @@
 body {
 	background-color: black;
-	background-image:url();
+	background-image:url(barber2.jpg);
 }
 
 #banner {
@@ -8,7 +8,7 @@ body {
 }
 
 .principal{
-	background: #CCCCCC;
+	background: black;
 	padding: 30px;
 }
 
@@ -19,7 +19,7 @@ body {
 
 .titulo-centralizado {
 	text-align: center;
-	color: White;
+	color:white;
 	padding: 30px;
 }
 
@@ -36,8 +36,7 @@ em strong {
 }
 
 .itens {
-	font-style: source sans pro
-}
+	font-style: Helvetica
 
 .corte{
 	background: #FFFFFF;
@@ -52,5 +51,5 @@ ul {
 }
 
 .imagemcorte {
-	width: 50%;
+	width: 45%;
 }
